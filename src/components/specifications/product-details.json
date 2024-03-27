@@ -1,0 +1,83 @@
+{
+  "collectionName": "components_specifications_product_details",
+  "info": {
+    "displayName": "Product_Value",
+    "icon": "chartBubble",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "impedance": {
+      "type": "string"
+    },
+    "dc_resistance_re": {
+      "type": "string"
+    },
+    "coil_inductance_le": {
+      "type": "string"
+    },
+    "effective_piston_area_sd": {
+      "type": "string"
+    },
+    "voice_coil_diameter": {
+      "type": "string"
+    },
+    "voice_coil_height": {
+      "type": "string"
+    },
+    "air_gap_height": {
+      "type": "string"
+    },
+    "linear_coil_travel_pp": {
+      "type": "string"
+    },
+    "moving_mass_mms": {
+      "type": "string"
+    },
+    "free_air_resonance_fs": {
+      "type": "string"
+    },
+    "sensitivity": {
+      "type": "string"
+    },
+    "mechanical_q_factor_qms": {
+      "type": "string"
+    },
+    "electrical_q_factor_qes": {
+      "type": "string"
+    },
+    "total_q_factor_qts": {
+      "type": "string"
+    },
+    "force_factor_bi": {
+      "type": "string"
+    },
+    "rated_power_handling": {
+      "type": "string"
+    },
+    "magnetic_flux_density": {
+      "type": "string"
+    },
+    "magnet_weight": {
+      "type": "string"
+    },
+    "net_weight": {
+      "type": "string"
+    },
+    "equivalent_volume_vas": {
+      "type": "string"
+    },
+    "compliance_cms": {
+      "type": "string"
+    },
+    "mechanical_loss_rms": {
+      "type": "string"
+    },
+    "recommended_frequency_range": {
+      "type": "string"
+    },
+    "max_mechanical_cone_excursion_xmech": {
+      "type": "string"
+    }
+  }
+}
